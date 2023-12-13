@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Laurence Esmeralda. You may call me, "Lolo."</h1>
+<h1 align="center">🐾 Hi, I'm Laurence Esmeralda. You may call me, "Lolo." 🐾</h1>
 <h3 align="center">I'm studying Software Engineering and a student at TripleTen.</h3>
 
-- 🔭 I’m currently working on [Around The US](https://github.com/LoloMuffin/se_project_aroundtheus)
+- 🚧 I’m currently working on [Around The US](https://github.com/LoloMuffin/se_project_aroundtheus)
 
-- 🌱 I’m currently learning **Javascript**
+- 📚 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LoloMuffin](https://github.com/LoloMuffin)
+- 🗄️ All of my projects are available at [https://github.com/LoloMuffin](https://github.com/LoloMuffin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
