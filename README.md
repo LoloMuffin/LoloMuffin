@@ -1,11 +1,17 @@
 <h1 align="center">🐾 Hi, I'm Laurence Esmeralda. You may call me, "Lolo." 🐾</h1>
 <h3 align="center">I'm studying Software Engineering and a student at TripleTen.</h3>
 
+<h2 align="left">About Me:</h2>
+
+<p align="left">Aspiring software engineer with HTML/CSS certification from TripleTen coding bootcamp and experience in an engagement center, showcasing effective communication and problem-solving. Currently learning JavaScript for a smooth transition into software development.</p>
+
 - 🚧 I’m currently working on [Around The US](https://github.com/LoloMuffin/se_project_aroundtheus)
 
 - 📚 I’m currently learning **Javascript**
 
 - 🗄️ All of my projects are available at [https://github.com/LoloMuffin](https://github.com/LoloMuffin)
+
+<h2></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
